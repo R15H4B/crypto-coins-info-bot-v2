@@ -1,7 +1,7 @@
 import os
 
 # the token of the @CryptoCoinsInfoBot
-TOKEN_BOT = 'put_here'
+TOKEN_BOT = '1102498760:AAFds9sOsMPXl7GvrKY6jEO0TG8iuOGyS9k'
 
 YOUR_TELEGRAM_ALIAS = 'put_here'
 
