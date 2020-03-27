@@ -3,7 +3,7 @@ import os
 # the token of the @CryptoCoinsInfoBot
 TOKEN_BOT = '1102498760:AAFds9sOsMPXl7GvrKY6jEO0TG8iuOGyS9k'
 
-YOUR_TELEGRAM_ALIAS = 'put_here'
+YOUR_TELEGRAM_ALIAS = 'R15H4B'
 
 # do APIs requests with pause
 TIME_INTERVAL = 3600
@@ -12,7 +12,7 @@ TIME_INTERVAL = 3600
 # COINMARKET_API_URL_COINLIST = 'https://api.coinmarketcap.com/v1/ticker/?limit=0'
 
 # new pro API
-CMC_API_KEY = "put_here"
+CMC_API_KEY = "74f41663-12c2-4513-923d-ede08482f242"
 COINMARKET_API_URL_COINLIST = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?start=1&limit=5000' \
                               '&CMC_PRO_API_KEY={}'
 
